@@ -1,0 +1,26 @@
+  .currency-div{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      
+      margin-left:500px
+     
+    }
+
+.button{
+       
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 10px;
+}   
+.amount{
+  width: 150px;
+  height: 30px;
+  font-size: 20px;
+} 
+.from-currency-option{
+  width: 100px;
+  height: 30px;
+}
